@@ -1,3 +1,3 @@
 # Practice Nest JS 
 
-## Typescrypt and PostgreSQL.
+## Typescrypt and PostgreSQL
